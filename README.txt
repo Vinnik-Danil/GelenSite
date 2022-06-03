@@ -1,11 +1,7 @@
 AUTHOR:
-DESIGNED & DEVELOPED by AwaikenThemes.com
+DESIGNED & DEVELOPED by Danil Vinnik
 
-Website: https://awaikenthemes.com/
-Twitter: https://twitter.com/awaikenthemes/
-Facebook: https://www.facebook.com/awaikentheme/
-Instagram: https://www.instagram.com/awaikenthemes/
-Pinterest: https://pinterest.com/awaikenthemes/
+Instagram: https://www.instagram.com/vinnik_danil/
 
 SOURCES AND CREDITS:
 
@@ -34,7 +30,4 @@ Javascript Files:
 
 
 
-====================================================================
-
-
-Thanks for downloading from https://awaikenthemes.com
+===================================================================
